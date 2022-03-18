@@ -1,0 +1,118 @@
+body {
+    text-align: center;
+}
+
+.tunes {
+    background-color: rgb(17, 17, 17);
+    width: auto;
+    padding-bottom: 5%;
+}
+
+#forp {
+    padding: 3% 5%;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    padding: 1% 10%;
+}
+
+#title {
+    color: #fff;
+    padding-top: 2rem;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.title-para {
+    padding: 10px 80px 0px 80px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#head-img {
+    width: 500px;
+    height: 500px;
+    padding-top: 50px;
+    border-radius: 800px;
+}
+
+.d-block {
+    height: 30rem;
+    /* border-radius: 400%; */
+}
+
+div#music {
+    background-color: black;
+    padding: 10% 10% 10% 10%;
+    color: #fff;
+}
+
+#music-title {
+    font-size: 60px;
+}
+
+#music-h1 {
+    font-size: 80px
+}
+
+#video {
+    background-color: #fff;
+    padding: 3% 10% 5% 10%;
+}
+
+.video-p {
+    font-size: 34px;
+    font-weight: bolder;
+}
+
+.gift {
+    padding: 30px 30px;
+    background-color: black;
+}
+
+.gift-p {
+    padding-top: 40px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.gift-img {
+    transform: rotate(20deg);
+}
+
+#pricing {
+    background-color: #FF5959;
+    padding: 60px 80px;
+}
+
+h1 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.price-p {
+    color: #fff;
+    font-size: 40px;
+    padding: 40px 50px;
+    font-weight: bold;
+}
+
+.card-header {
+    /* padding: 30px; */
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#about {
+    background-color: rgb(32, 28, 28);
+    padding: 1%;
+}
+
+.founder {
+    color: #fff;
+    font-size: 20px
+}
